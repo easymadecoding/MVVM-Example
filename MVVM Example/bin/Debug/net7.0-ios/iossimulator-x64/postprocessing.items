@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MVVM Example.app/MVVM Example">
+      <BCSymbolMapName>MVVM Example.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MVVM Example.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/alexstaniea/Desktop/MVVM Example/MVVM Example/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>MVVM Example.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/alexstaniea/Desktop/MVVM Example/MVVM Example</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
